@@ -1,0 +1,41 @@
+Script 1:
+
+begin playing 5 seconds after the player moves their mouse in the game
+nicks chair should appear with 'pop' sound file at 41 seconds when i say "so why dont you relax in this chair"
+bgm_loop should also play under it 55 seconds into it and loop until it fades out for a later clip
+clip ends when player is promted to check the wall where a character nick drew should appear
+
+Script 2:
+
+begin playing after the player has stood near the nicks drawing for a few seconds
+micheal caine cardboard cutout should appear at 8 seconds "sir micheal caine" and if you can make it move when i do his impression
+that would be great lol
+button should appear with yes or no to let player pick a response to the dilemma, button_press should play when either is pressed
+
+Script 3:
+
+regardless of what button the player presses this script should play
+ball should appear with the pop sound at 27 seconds, pipe should appear with pop at 54 seconds
+
+Script 4:
+
+should play when player scores 1 hoop with the ball and the pipe
+bgm_loop should fade out at 2:00 to allow my rick astley song to play without clashing, and fade in at 2:36 after it
+button should appear for player to press and 'gain experience' at 3:04 with a sign that says "lvl 1" next to it, when player presses it 
+the sign should change to "lvl 80" and exp_noise should play
+
+Script 5:
+
+Should play after player presses button to level up character
+bgm should abruptly stop at 1:03 when the door knocking sound plays
+
+Script 6:
+
+Should play when player goes near the door, letter should slide from under the door with letter_slide sound effect
+player can interact with the letter to pick it up after sound clip, 'letter' should play when they pick it up
+
+Script 7:
+
+Should play after player picks up the letter
+screen should go black at 45 seconds
+credits roll after
